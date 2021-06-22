@@ -1,6 +1,6 @@
 # Compile Bitcoin on Ubuntu 18.04  
 
-### 1. After installing (see Ubuntu [Notice.md](https://github.com/nourou4them/bitcoin/blob/main/Ubuntu%20Notice.md)), update and upgrade the system
+### 1. After installing (see [Ubuntu Notice.md](https://github.com/nourou4them/bitcoin/blob/main/Ubuntu%20Notice.md)), update and upgrade the system
 
         sudo apt-get update
         sudo apt-get upgrade
