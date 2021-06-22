@@ -42,7 +42,7 @@ PS : Do not forget to replace the **"username"** below by yours.
         ./autogen.sh
         ./configure LDFLAGS="-L/home/theusername/bitcoin/db4/lib/" CPPFLAGS="-I/home/theusername/bitcoin/db4/include/"
 
-### 6. Bild Bitcoin
+### 6. Build Bitcoin
 
 This command below may take **5-10 minutes**  
 
