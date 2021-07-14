@@ -23,6 +23,9 @@ I have provide the logs when I have run them.
         - Mine a block  
         - Send it to a dedicated node  
         - Check that node has received it.  
-    [example_test_mk.py](https://github.com/nourou4them/bitcoin/blob/main/example_test_mk.py)
+    [example_test_mk.py](https://github.com/nourou4them/bitcoin/blob/main/example_test_mk.py) 
+    
+I have also added some words about bitcoin-related subjects.
+- [Full Node](https://github.com/nourou4them/bitcoinsn/blob/main/full_node.md)
 
 ## Do not hesitate to contribute as this would be useful for anyone that is interested in Bitcoin Programming.
