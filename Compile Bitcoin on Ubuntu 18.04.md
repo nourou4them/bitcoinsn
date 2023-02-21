@@ -23,7 +23,7 @@
 
 ### 4. Download & install Berkeley DB
     
-PS : Do not forget to replace the **"username"** below by yours.
+## PS : Do not forget to replace the **"username"** below by yours.
 
         cd ~
         mkdir bitcoin/db4/
