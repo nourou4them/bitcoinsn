@@ -10,8 +10,9 @@ This has been done as a test to be in the bitcoin labs seminary, to learn more a
 
     [Ubuntu Notice.md](https://github.com/nourou4them/bitcoin/blob/main/Ubuntu%20Notice.md)  
 
-2. The next step is to compile bitcoin on the Ubuntu server  
+2. The next step is to compile bitcoin on the Ubuntu or Fedora server  
     [Compile Bitcoin on Ubuntu 18.04](https://github.com/nourou4them/bitcoin/blob/main/Compile%20Bitcoin%20on%20Ubuntu%2018.04.md#compile-bitcoin-on-ubuntu-1804)  
+    [Compile Bitcoin on Fedora](https://github.com/nourou4them/bitcoinsn/blob/main/Compile-Bitcoin-Core-on-Fedora-37.md)
 
 3. The next step, after a successful installation, is to run unit/reression tests  
 I have provide the logs when I have run them.  
