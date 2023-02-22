@@ -29,7 +29,7 @@
        git tag
 
 ## 5. Checkout to the last release version. At this time the last release version is v24.0.1
-## PS: Do not forget to replace the **"v24.0.1"** by the last release version
+PS: Do not forget to replace the **"v24.0.1"** by the last release version
   
        git checkout "v24.0.1"
 
